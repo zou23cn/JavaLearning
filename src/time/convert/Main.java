@@ -1,4 +1,4 @@
-package TimeConvert;
+package time.convert;
 
 import java.util.Scanner;
 
