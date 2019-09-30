@@ -1,4 +1,4 @@
-package TempConvert;
+package temp.convert;
 
 import java.util.Scanner;
 
